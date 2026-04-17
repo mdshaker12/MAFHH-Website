@@ -12,14 +12,14 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    value: "contact@mafhh.com",
-    href: "mailto:contact@mafhh.com",
+    value: "mafhhtechnologies@gmail.com",
+    href: "mailto:mafhhtechnologies@gmail.com",
   },
   {
     icon: Globe,
     title: "Website",
-    value: "mafhh.com",
-    href: "https://mafhh.com",
+    value: "www.mafhhtechnologies.com",
+    href: "https://www.mafhhtechnologies.com",
   },
   {
     icon: MapPin,

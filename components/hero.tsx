@@ -47,10 +47,10 @@ export function Hero() {
         {/* Stats */}
         <div className="mt-20 grid grid-cols-2 gap-8 md:grid-cols-4">
           {[
-            { label: "Projects Delivered", value: "50+" },
-            { label: "Happy Clients", value: "30+" },
+            { label: "Projects Delivered", value: "20+" },
+            { label: "Happy Clients", value: "20+" },
             { label: "Years Experience", value: "5+" },
-            { label: "Team Members", value: "15+" },
+            { label: "Team Members", value: "10+" },
           ].map((stat) => (
             <div key={stat.label} className="text-center">
               <div className="text-3xl font-bold text-foreground sm:text-4xl">{stat.value}</div>

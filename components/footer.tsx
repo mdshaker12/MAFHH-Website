@@ -48,7 +48,7 @@ export function Footer() {
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8">
             <Link href="/" className="text-2xl font-bold text-background">
-              MAFHH<span className="text-primary">.</span>
+              MAFHH
             </Link>
             <p className="text-sm leading-6 text-background/70">
               Building smarter business systems. Custom ERP, dashboards, and automation 

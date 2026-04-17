@@ -96,7 +96,7 @@ export function Product() {
                 </div>
                 <div className="flex-1 mx-4">
                   <div className="h-6 rounded-md bg-muted flex items-center justify-center">
-                    <span className="text-xs text-muted-foreground">billing.mafhh.com</span>
+                    <span className="text-xs text-muted-foreground">billing.mafhhtechnologies.com</span>
                   </div>
                 </div>
               </div>
@@ -106,7 +106,7 @@ export function Product() {
                 {/* Stats Row */}
                 <div className="grid grid-cols-3 gap-3">
                   {[
-                    { label: "Today&apos;s Sales", value: "$4,250" },
+                    { label: "Today's Sales", value: "$4,250" },
                     { label: "Orders", value: "156" },
                     { label: "Profit", value: "$1,280" },
                   ].map((stat, i) => (

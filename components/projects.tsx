@@ -9,7 +9,7 @@ const projects = [
     description: "A comprehensive ERP solution for managing the entire manufacturing process from orders to delivery.",
     status: "In Development",
     modules: [
-      { name: "Order Management System", complete: true },
+      { name: "Order Management System", complete: false },
       { name: "Inventory Management", complete: true },
       { name: "Consumption Management", complete: true },
       { name: "Bill of Materials (BOM)", complete: false },
@@ -24,12 +24,12 @@ const projects = [
     description: "A complete billing and management solution for restaurants, inspired by industry leaders like Petpooja.",
     status: "In Development",
     modules: [
-      { name: "Billing Module", complete: true },
+      { name: "Billing Module", complete: false },
       { name: "Inventory Module", complete: true },
-      { name: "Consumption Module", complete: false },
-      { name: "Dish Management Module", complete: false },
-      { name: "Monthly Expenses Module", complete: false },
-      { name: "Sales & Profit Module", complete: false },
+      { name: "Consumption Module", complete: true },
+      { name: "Dish Management Module", complete: true },
+      { name: "Monthly Expenses Module", complete: true },
+      { name: "Sales & Profit Module", complete: true },
     ],
   },
 ]

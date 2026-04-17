@@ -62,7 +62,7 @@ export function Header() {
           <div className="flex items-center justify-between">
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="text-xl font-bold text-foreground">
-                MAFHH<span className="text-primary">.</span>
+                MAFHH
               </span>
             </Link>
             <button

@@ -90,8 +90,8 @@ export function CaseStudy() {
           {/* Results */}
           <div className="mt-12 grid grid-cols-2 gap-4 sm:grid-cols-4">
             {[
-              { label: "Time Saved", value: "40%" },
-              { label: "Error Reduction", value: "85%" },
+              { label: "Time Saved", value: "80%" },
+              { label: "Error Reduction", value: "90%" },
               { label: "Cost Savings", value: "30%" },
               { label: "User Satisfaction", value: "95%" },
             ].map((stat) => (
